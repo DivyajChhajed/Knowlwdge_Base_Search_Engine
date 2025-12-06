@@ -1,8 +1,3 @@
-Below is a **clean, professional, production-quality README.md** for your **Knowledge-Base Search Engine** repository using **ChromaDB + LangChain + Groq + FastAPI + Streamlit + Context-Aware RAG + Re-ranking**.
-
-You can copy-paste this directly into your GitHub repo.
-
----
 
 # 🚀 Knowledge-Base Search Engine (RAG + ChromaDB + Groq + LangChain)
 
