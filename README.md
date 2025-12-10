@@ -258,12 +258,3 @@ If you like this project, please ⭐ the repository!
 
 ---
 
-If you want, I can also generate:
-
-✅ a **perfect README banner image**,
-✅ a **project logo**,
-✅ **GitHub Wiki documentation**,
-or
-✅ a **PDF project report**.
-
-Just tell me!
